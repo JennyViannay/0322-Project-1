@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'batman';
+    src: url('fonts/batman.ttf');
+}
+
+@font-face {
+    font-family: 'signature';
+    src: url('fonts/signature.ttf');
+}
+
+.signature {
+    font-family: 'signature';
+}
+
+.batman {
+    font-family: 'batman';
+}
